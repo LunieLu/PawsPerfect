@@ -14,7 +14,7 @@ body {
 
 /* headings and logo */  
 
-h1, h3 {
+h1, h2 {
     font-family: Poppins, sans-serif;
 }
 
@@ -22,7 +22,7 @@ h1 {
     font-weight: 600;
 }
 
-h3 {
+h2 {
     font-weight: 200;
 }
 
@@ -36,7 +36,7 @@ h3 {
 
 #sub-logo {
     float: left;
-    font-size: 250%;
+    font-size: 225%;
     letter-spacing: 2px;
     color: #fff;
     margin-top: 20px;
@@ -48,7 +48,7 @@ h3 {
 
 #menu {
     font-size: 130%;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
 }
 
 #menu, #logo, #sub-logo {
