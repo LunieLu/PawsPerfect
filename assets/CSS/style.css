@@ -106,22 +106,35 @@ h4 {
 
 /* small gallery section */
 
-#gallery div {
-    padding: 3%
+#gallery {
+    padding-bottom: 4%;
+    padding-left: 3%;
 }
 
 #gallery h3 {
     text-align: center;
+    padding: 2%;
 }
 
-#photos {
-    column-count: 5;
+.photos {
+    display: inline;
+}
+
+.photos > img {
+    width: 24%;
+    height: 500px;
+}
+
+#photo_gallery {
+    width: 100%;
+    margin: 0 auto;
 }
 
 /* footer */
 
 footer {
     height: 150px;
+    background-color: #fff;
 }
     
 .social-links {
@@ -136,5 +149,5 @@ footer {
     font-size: 200%;
     margin: 1%;
     padding: 2%;
-    color: #fff;
+    color: #79492F;
 }
