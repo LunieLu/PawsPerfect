@@ -82,3 +82,60 @@ h2 {
     width: 100%;
     background: url('../images/norwood_park.jpg') no-repeat center center;
 }
+
+/* introduction */
+
+#intro {
+    text-align: center;
+    background-color: #fff;
+    color: #79492F;
+}
+
+#intro div {
+    padding: 3%;
+}
+
+h3 {
+    font-size: 200%;
+}
+
+h4 {
+    font-size: 150%;
+    font-weight: 200;
+}
+
+/* small gallery section */
+
+#gallery div {
+    padding: 3%
+}
+
+#gallery h3 {
+    text-align: center;
+}
+
+#photos {
+    column-count: 5;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+    
+.social-links {
+    text-align: center;
+}
+    
+.social-links > li {
+    display: inline;
+}
+    
+.social-links i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 2%;
+    color: #fff;
+}  
+}
