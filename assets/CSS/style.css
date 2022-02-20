@@ -130,6 +130,13 @@ h4 {
     margin: 0 auto;
 }
 
+/* about */
+
+#about {
+    background-color: #fff;
+    color: #79492F;
+}
+
 /* footer */
 
 footer {
