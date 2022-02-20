@@ -52,7 +52,7 @@ h2 {
 }
 
 #menu, #logo, #sub-logo {
-    line-height: 75px;
+    line-height: 60px;
 }
 
 #menu li {
@@ -77,15 +77,8 @@ h2 {
 /* homepage image */
 
 #hero-image {
-    background-color: red;
-}
-
-/* text box on image */
-
-#cover-text {
-    font-size: 130%;
-    letter-spacing: 2px;
-    width: 300px;
-    height: 200px;
-    background-color: rgba (207, 174, 137, .7);
+    margin-top: 80px;
+    height: 600px;
+    width: 100%;
+    background: url('../images/norwood_park.jpg') no-repeat center center;
 }
