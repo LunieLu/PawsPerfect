@@ -137,6 +137,12 @@ h4 {
     color: #79492F;
 }
 
+#about-text {
+    padding: 5%;
+    text-align: center;
+    font-size: 175%;
+}
+
 /* footer */
 
 footer {
