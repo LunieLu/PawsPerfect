@@ -8,9 +8,11 @@
 
 body {
     font-family: Open Sans, sans-serif;
+    color: #fff;
+    background-color: #C39A6B;
 }
 
-/* headings and logo */
+/* headings and logo */  
 
 h1, h3 {
     font-family: Poppins, sans-serif;
@@ -29,16 +31,27 @@ h3 {
     font-size: 250%;
     margin-left: 30px;
     letter-spacing: 2px;
+    color: #fff;
+}
+
+#sub-logo {
+    float: left;
+    font-size: 250%;
+    letter-spacing: 2px;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 30px;
+    position: absolute;
 }
 
 /* navigation links */
 
 #menu {
-    font-size: 110%;
+    font-size: 130%;
     letter-spacing: 4px;
 }
 
-#menu, #logo {
+#menu, #logo, #sub-logo {
     line-height: 75px;
 }
 
@@ -54,9 +67,9 @@ h3 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 3px solid #fff;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 3px solid #fff;
 }
