@@ -165,8 +165,11 @@ h4 {
 #about4 {
     background-color: #C39A6B;
     color: #fff;
-    text-align: right;
-    width: 50%;
+    float: right;
+}
+
+#aboutimg4 {
+    float: left;
 }
 
 .about_text {
