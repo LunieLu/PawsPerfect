@@ -155,8 +155,11 @@ h4 {
 #about3 {
     background-color: #fff;
     color: #79492F;
-    text-align: left;
-    width: 50%;
+    float: left;
+}
+
+#aboutimg3 {
+    float: right;
 }
 
 #about4 {
