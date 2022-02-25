@@ -187,6 +187,12 @@ h4 {
     color: #79492F;
 }
 
+/* contact form */
+
+#contactform {
+    text-align: center;
+}
+
 /* footer */
 
 footer {
