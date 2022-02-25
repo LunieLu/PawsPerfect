@@ -132,9 +132,24 @@ h4 {
 
 /* about */
 
-#about {
+#about1 {
     background-color: #fff;
     color: #79492F;
+}
+
+#about2 {
+    background-color: #C39A6B;
+    color: #fff;
+}
+
+#about3 {
+    background-color: #fff;
+    color: #79492F;
+}
+
+#about4 {
+    background-color: #C39A6B;
+    color: #fff;
 }
 
 .about_text {
