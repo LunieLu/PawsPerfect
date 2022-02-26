@@ -137,9 +137,11 @@ h4 {
 
 #about {
     background-color: #fff;
+    color: #79492F;
+    height: 300px;
 }
 
-#aboutspan1 {
+.aboutspans {
     width: 100%;
 }
 
@@ -151,10 +153,6 @@ h4 {
     float: right;
 }
 
-#aboutspan2 {
-    width: 100%;
-}
-
 #about2 {
     float: right;
 }
@@ -163,20 +161,12 @@ h4 {
     float: left;
 }
 
-#aboutspan3 {
-    width: 100%;
-}
-
 #about3 {
     float: left;
 }
 
 #aboutimg3 {
     float: right;
-}
-
-#aboutspan4 {
-    width: 100%;
 }
 
 #about4 {
@@ -189,11 +179,16 @@ h4 {
 
 .about_text {
     font-size: 175%;
-    width: 60%;
+    width: 66.66%;
+    margin: 1%;
+    display: block;
 }
 
 .about_img {
-    width: 30%;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
 }
 
 /* prices */
