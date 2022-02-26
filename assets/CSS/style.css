@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Open Sans, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* headings and logo */  
@@ -18,7 +18,7 @@ header {
 }
 
 h1, h2 {
-    font-family: Poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1 {
@@ -203,8 +203,75 @@ h4 {
 
 /* contact form */
 
-#contactform {
+h3 {
+    font-family: 'Poppins', sans-serif;
     text-align: center;
+    color: #79492F;
+}
+
+.contactform {
+    color: #79492F;
+    padding: 2% 0;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.contact {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.contact > label {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding-top: 2%;
+    text-align: left;
+    display: block;
+}
+
+.text-input {
+    border-bottom: #79492F 1px solid;
+    padding-bottom: 2%;
+}
+
+.smallbox {
+    width: 100%;
+}
+
+textarea {
+    margin-top: 2%;
+    padding: 1%;
+    font-family: 'Open Sans', sans-serif;
+    border: #79492F 1px solid;
+}
+
+.submit_message {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: #CFAE89;
+    color: #fff;
+    border-radius: 8px;
+    border: #79492F 1px solid;
+    margin-top: 2%;
+    padding: 15px 32px;
+}
+
+.submit_message:hover {
+    background-color: #fff;
+    color: #79492F;
+    border: #79492F 1px solid;
+}
+
+input:hover {
+    background-color: #F8F1ED;
+    border: #79492F 1px solid;
+}
+
+textarea:hover {
+    background-color: #F8F1ED;
 }
 
 /* footer */
@@ -214,7 +281,6 @@ footer {
     position: relative;
     background-color: #C39A6B;
     height: 150px;
-    margin-top: -150px;
 }
     
 .social-links {
