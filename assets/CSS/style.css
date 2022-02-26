@@ -142,18 +142,23 @@ h4 {
     margin-top: 1%;
 }
 
-.aboutdivs {
-    width: 20%;
+.fa-bone {
+    text-align: center;
+    color: #79492F;
 }
 
 .aboutspans {
+    width: 20%;
+}
+
+.aboutdivs {
     width: 100%;
 }
 
 #about1 {
     float: left;
     margin-left: 5%;
-    margin-top: 4%;
+    margin-top: 5%;
 }
 
 #aboutimg1 {
