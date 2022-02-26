@@ -246,7 +246,7 @@ textarea {
     border: #79492F 1px solid;
 }
 
-.submit_message {
+.return_button, .submit_message {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     letter-spacing: 2px;
@@ -259,7 +259,7 @@ textarea {
     padding: 15px 32px;
 }
 
-.submit_message:hover {
+.return_button:hover, .submit_message:hover {
     background-color: #fff;
     color: #79492F;
     border: #79492F 1px solid;
@@ -272,6 +272,13 @@ input:hover {
 
 textarea:hover {
     background-color: #F8F1ED;
+}
+
+.thank-you {
+    text-align: center;
+    color: #79492F;
+    font-size: 150%;
+    padding: 5%;
 }
 
 /* footer */
