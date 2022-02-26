@@ -152,6 +152,8 @@ h4 {
 
 #about1 {
     float: left;
+    margin-left: 5%;
+    margin-top: 4%;
 }
 
 #aboutimg1 {
@@ -161,6 +163,7 @@ h4 {
 
 #about2 {
     float: right;
+    margin-right: 5%;
 }
 
 #aboutimg2 {
@@ -170,6 +173,7 @@ h4 {
 
 #about3 {
     float: left;
+    margin-left: 5%;
 }
 
 #aboutimg3 {
