@@ -7,9 +7,28 @@ Users of the site will be able to find information about Pawsitively Perfect Pet
 This site is targeted towards Dog & Cat owners who may be looking to book time away and want a professional pet carer to look after their pets during this time.
 
 ## Features
+- Navigation
+    - 
+
+- The Hero Image
+
+- The Intro Section
+
+- The Gallery Section
+
+- The Footer
 
 ## Testing
 
+
+
 ## Deployment
+    
+
 
 ## Credits
+ 
+ **Content**
+- 
+ **Media**
+- Images used on site are all original content
