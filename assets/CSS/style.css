@@ -139,6 +139,11 @@ h4 {
     background-color: #fff;
     color: #79492F;
     height: 300px;
+    margin-top: 1%;
+}
+
+.aboutdivs {
+    width: 20%;
 }
 
 .aboutspans {
@@ -186,7 +191,6 @@ h4 {
     height: 300px;
     width: 70%;
     margin: 2%;
-    vertical-align: middle;
 }
 
 .about_img {
