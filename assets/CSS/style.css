@@ -174,10 +174,11 @@ h4 {
 
 .about_text {
     font-size: 175%;
+    width: 66%;
 }
 
 .about_img {
-    width: 50%;
+    width: 33%;
 }
 
 /* prices */
@@ -196,8 +197,11 @@ h4 {
 /* footer */
 
 footer {
-    height: 150px;
+    clear: both;
+    position: relative;
     background-color: #fff;
+    height: 150px;
+    margin-top: -150px;
 }
     
 .social-links {
