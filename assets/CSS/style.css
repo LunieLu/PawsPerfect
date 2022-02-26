@@ -151,6 +151,7 @@ h4 {
 
 #aboutimg1 {
     float: right;
+    padding-right: 5%;
 }
 
 #about2 {
@@ -159,6 +160,7 @@ h4 {
 
 #aboutimg2 {
     float: left;
+    padding-left: 5%;
 }
 
 #about3 {
@@ -167,6 +169,7 @@ h4 {
 
 #aboutimg3 {
     float: right;
+    padding-right: 5%;
 }
 
 #about4 {
@@ -175,19 +178,20 @@ h4 {
 
 #aboutimg4 {
     float: left;
+    padding-left: 5%;
 }
 
 .about_text {
-    font-size: 175%;
-    width: 66.66%;
-    margin: 1%;
-    display: block;
+    font-size: 155%;
+    height: 300px;
+    width: 70%;
+    margin: 2%;
+    vertical-align: middle;
 }
 
 .about_img {
-    height: 200px;
-    width: 200px;
-    margin: 0 auto;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
 }
 
