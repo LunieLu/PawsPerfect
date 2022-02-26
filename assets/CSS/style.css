@@ -29,6 +29,10 @@ h2 {
     font-weight: 200;
 }
 
+h3 {
+    letter-spacing: 2px;
+}
+
 #logo {
     float: left;
     font-size: 250%;
@@ -110,30 +114,26 @@ h4 {
 /* small gallery section */
 
 #gallery {
-    padding-bottom: 4%;
-    padding-left: 3%;
+    width: 100%;
+    text-align: center;
+    background: #CFAE89;
 }
 
 #gallery h3 {
     text-align: center;
-    padding: 2%;
+    padding: 1%;
 }
 
-.photos {
-    display: inline;
-}
-
-.photos > img {
-    width: 24%;
-    height: 500px;
-}
-
-#photo_gallery {
-    width: 100%;
-    margin: 0 auto;
+.photos img {
+    width: 23%;
+    margin-bottom: 4%;
 }
 
 /* about */
+
+#about-h3 {
+    margin-top: 2%;
+}
 
 #about {
     background-color: #fff;
