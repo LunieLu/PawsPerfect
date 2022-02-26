@@ -8,11 +8,14 @@
 
 body {
     font-family: Open Sans, sans-serif;
-    color: #fff;
-    background-color: #C39A6B;
 }
 
 /* headings and logo */  
+
+header {
+    background-color: #C39A6B;
+    height: 100px;
+}
 
 h1, h2 {
     font-family: Poppins, sans-serif;
@@ -49,6 +52,7 @@ h2 {
 #menu {
     font-size: 130%;
     letter-spacing: 2px;
+    color: #fff;
 }
 
 #menu, #logo, #sub-logo {
@@ -77,7 +81,6 @@ h2 {
 /* homepage image */
 
 #hero-image {
-    margin-top: 80px;
     height: 600px;
     width: 100%;
     background: url('../images/norwood_park.jpg') no-repeat center center;
@@ -132,9 +135,15 @@ h4 {
 
 /* about */
 
-#about1 {
+#about {
     background-color: #fff;
-    color: #79492F;
+}
+
+#aboutspan1 {
+    width: 100%;
+}
+
+#about1 {
     float: left;
 }
 
@@ -143,8 +152,6 @@ h4 {
 }
 
 #about2 {
-    background-color: #C39A6B;
-    color: #fff;
     float: right;
 }
 
@@ -153,8 +160,6 @@ h4 {
 }
 
 #about3 {
-    background-color: #fff;
-    color: #79492F;
     float: left;
 }
 
@@ -163,8 +168,6 @@ h4 {
 }
 
 #about4 {
-    background-color: #C39A6B;
-    color: #fff;
     float: right;
 }
 
@@ -174,11 +177,11 @@ h4 {
 
 .about_text {
     font-size: 175%;
-    width: 66%;
+    width: 60%;
 }
 
 .about_img {
-    width: 33%;
+    width: 30%;
 }
 
 /* prices */
@@ -199,7 +202,7 @@ h4 {
 footer {
     clear: both;
     position: relative;
-    background-color: #fff;
+    background-color: #C39A6B;
     height: 150px;
     margin-top: -150px;
 }
@@ -216,5 +219,5 @@ footer {
     font-size: 200%;
     margin: 1%;
     padding: 2%;
-    color: #79492F;
+    color: #fff;
 }
