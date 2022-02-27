@@ -111,6 +111,28 @@ h4 {
     font-weight: 200;
 }
 
+/* certifications */
+
+#certs {
+    text-align: center;
+}
+
+#pdwa {
+    vertical-align: top;
+    margin-right: 2%;
+}
+
+#coe {
+    width: 12%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+#certs > div {
+    width: 20%;
+    display: inline;
+}
+
 /* small gallery section */
 
 #gallery {
