@@ -229,14 +229,11 @@ h4 {
 #prices_section {
     background-color: #fff;
     color: #79492F;
-}
-
-#prices {
-    border: red 1px solid;
+    padding-bottom: 2%;
 }
 
 #prices h3 {
-    padding: 2%;
+    padding: 2% 0;
 }
 
 #prices span {
@@ -244,23 +241,22 @@ h4 {
 }
 
 #pricestext {
-    border: blue 1px solid;
+    border: #79492F 5px dotted;
     width: 40%;
     text-align: center;
-    margin: 5% 0 10% 5%;
+    padding: 10% 0 10% 0;
+    margin-left: 5%;
     font-size: 150%;
 }
 
 #pricesimg {
-    border: green 1px solid;
-    width: 49%;
+    width: 50%;
     text-align: center;
     float: right;
-    margin-bottom: 2%;
 }
 
 #prices img {
-    width: 60%;
+    width: 85%;
     border-radius: 5%;
 }
 
