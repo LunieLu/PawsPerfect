@@ -235,13 +235,20 @@ h4 {
     border: red 1px solid;
 }
 
+#prices h3 {
+    padding: 2%;
+}
+
 #prices span {
     display: inline-block;
 }
 
 #pricestext {
     border: blue 1px solid;
-    width: 49%;
+    width: 40%;
+    text-align: center;
+    margin: 5% 0 10% 5%;
+    font-size: 150%;
 }
 
 #pricesimg {
@@ -249,6 +256,7 @@ h4 {
     width: 49%;
     text-align: center;
     float: right;
+    margin-bottom: 2%;
 }
 
 #prices img {
