@@ -229,10 +229,33 @@ h4 {
 #prices_section {
     background-color: #fff;
     color: #79492F;
-    padding: 2%;
 }
 
+#prices {
+    border: red 1px solid;
+}
 
+#prices span {
+    display: inline-block;
+}
+
+#pricestext {
+    border: blue 1px solid;
+    width: 49%;
+}
+
+#pricesimg {
+    border: green 1px solid;
+    width: 49%;
+    text-align: center;
+    float: right;
+}
+
+#prices img {
+    width: 40%;
+    border-radius: 5%;
+
+}
 
 /* contact form */
 
