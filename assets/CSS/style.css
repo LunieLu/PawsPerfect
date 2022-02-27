@@ -17,7 +17,7 @@ header {
     height: 100px;
 }
 
-h1, h2 {
+h1, h2, h3, h4 {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -31,6 +31,14 @@ h2 {
 
 h3 {
     letter-spacing: 2px;
+    font-size: 200%;
+    text-align: center;
+    color: #79492F;
+}
+
+h4 {
+    font-size: 150%;
+    font-weight: 400;
 }
 
 #logo {
@@ -102,19 +110,11 @@ h3 {
     padding: 2%;
 }
 
-h3 {
-    font-size: 200%;
-}
-
-h4 {
-    font-size: 150%;
-    font-weight: 200;
-}
-
 /* certifications */
 
 #certs {
     text-align: center;
+    padding: 1%;
 }
 
 #pdwa {
@@ -148,7 +148,9 @@ h4 {
 
 .photos img {
     width: 23%;
-    margin-bottom: 4%;
+    padding: 2px;
+    border-radius: 2%;
+    margin-bottom: 30px;
 }
 
 /* about */
@@ -224,12 +226,6 @@ h4 {
 }
 
 /* contact form */
-
-h3 {
-    font-family: 'Poppins', sans-serif;
-    text-align: center;
-    color: #79492F;
-}
 
 .contactform {
     color: #79492F;
