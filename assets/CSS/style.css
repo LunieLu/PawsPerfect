@@ -465,9 +465,13 @@ footer {
         margin: 0;
     }
 
+    .contactform {
+        width: 100%;
+    }
+
 }
 
-/* For medium screen sizes from 500px wide and down */
+/* For small screen sizes from 500px wide and down */
 @media screen and (max-width: 500px) {
       
     h1 {
@@ -492,7 +496,13 @@ footer {
        display: none;
     }
 
-    .contactform {
-        width: 100%;
+}
+
+/* For smaller mobile screen sizes from 350px wide and down */
+@media screen and (max-width: 350px) {
+
+    #thepaw {
+        display: none;
     }
+
 }
