@@ -410,3 +410,11 @@ footer {
     }
 
 }
+
+/* For medium screen sizes from 768px wide and down */
+@media screen and (max-width: 768px) {
+    
+    .hamburger {
+        font-size: 30px;
+    }
+}
