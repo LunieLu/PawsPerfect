@@ -470,15 +470,29 @@ footer {
 /* For medium screen sizes from 500px wide and down */
 @media screen and (max-width: 500px) {
       
+    h1 {
+        width: 50%;
+        margin: 2% 0 2%;
+    }
+    
     #logo {
         line-height: 30px;
     }
-
-    #sublogo {
-        line-height: 70px;
+    
+    #sub-logo {
+        padding-top: 2.5%;
+        font-size: 170%;
     }
 
     #menu {
         line-height: 0;
+    }
+
+    #hero-image {
+       display: none;
+    }
+
+    .contactform {
+        width: 100%;
     }
 }
