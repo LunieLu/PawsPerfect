@@ -33,9 +33,14 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
     - It briefly explains the qualifications of the professional dog walker.
     - It includes logos of qualifications the professional has completed.
 
-![]
+![The Intro Section for Pawsitively Perfect Pet Care](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/intro.PNG "Introduction")
 
 - The Gallery Section
+    - Unofficially titled "Our Furry Friends" section
+    - Shows photos of pets that have been cared for
+        - This is to help personalise the experience for the user, to help them feel connected to the business and its professional staff
+
+![The Gallery]()
 
 - The Footer
 
