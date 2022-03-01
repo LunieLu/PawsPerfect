@@ -138,6 +138,7 @@ h4 {
 
 #pdwa {
     vertical-align: top;
+    width: 12%;
     margin-right: 2%;
 }
 
@@ -181,60 +182,29 @@ h4 {
 #about {
     background-color: #fff;
     color: #79492F;
-    height: 300px;
     margin-top: 1%;
 }
 
-.aboutspans {
-    width: 20%;
-}
-
-.aboutdivs {
-    width: 100%;
-}
-
-#about1 {
-    float: left;
-    margin-left: 5%;
-    margin-top: 5%;
-}
-
-#aboutimg1 {
-    float: right;
-    padding-right: 5%;
-}
-
 #about2 {
-    float: right;
-    margin-right: 5%;
-}
-
-#aboutimg2 {
-    float: left;
-    padding-left: 5%;
-}
-
-#about3 {
-    float: left;
-    margin-left: 5%;
-}
-
-#aboutimg3 {
-    float: right;
-    padding-right: 5%;
+    margin-bottom: 4%;
 }
 
 .about_text {
-    font-size: 155%;
-    height: 300px;
-    width: 70%;
-    margin: 2%;
+    text-align: center;
+    font-size: 160%;
+    width: 90%;
+    margin: 2% 0 2% 5%;
+}
+
+.aboutimgs {
+    text-align: center;
 }
 
 .about_img {
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     border-radius: 50%;
+    margin: 2% 4%;
 }
 
 /* prices */
@@ -374,8 +344,40 @@ footer {
 
 /* Media queries */
 
+/* For larger screens size from 1600px wide and down */
+@media screen and (max-width: 1600px) {
+
+
+
+}
+
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+    #pdwa {
+        width: 12%;
+    }
+
+    .about_text {
+        font-size: 120%;
+        width: 60%;
+    }
+
+    #pricestext {
+        padding: 6% 0 6% 0;
+    }
+    
+    #phone {
+        margin-bottom: 3px;
+    }
+
+    textarea {
+        width: 98%;
+    }
+
+}
+
+/* For medium screens size from 1072px wide and down */
+@media screen and (max-width: 1072px) {
     #pdwa {
         width: 12%;
     }
@@ -608,7 +610,7 @@ footer {
 /* For smaller mobile screen sizes from 350px wide and down */
 @media screen and (max-width: 350px) {
     
-        #thepaw {
+    #thepaw {
         display: none;
     }
 
