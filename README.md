@@ -6,19 +6,34 @@ Users of the site will be able to find information about Pawsitively Perfect Pet
 
 This site is targeted towards Dog & Cat owners who may be looking to book time away and want a professional pet carer to look after their pets during this time.
 
-![Responsive view of Pawsitively Perfect Pet Care on all devices]()
+![Responsive view of Pawsitively Perfect Pet Care on all devices](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/Responsive.PNG "Pawsitively Perfect Pet Care")
 
 ## Features
 - Navigation
-    - 
+    - Featured at the top of the site, the navigation bar shows the logo for the business in the left corner: Pawsitively Perfect Pet Care; which is a link to return to the index.html page
+    - The other navigation links to the far right of the nav bar: Home, About, Prices & Contact; these all divert a user to different pages within the site.
+    - The navigation also includes a paw print icon in relation to the fact the business is animal based.
+    - The fonts used in the Navigation bar are Poppins (For Headings) & Open Sans (For Body)
+    - The colours used are taken from the business card, and are the following hex codes:
+        - #C39A6B
+        - #CFAE89
+        - #79492F
+        - #fff
+        - #F8F1ED
+
+![The Navigation Bar for Pawsitive Perfect Pet Care]()
 
 - The Hero Image
+
+
 
 - The Intro Section
 
 - The Gallery Section
 
 - The Footer
+
+---
 
 ## Testing
 
