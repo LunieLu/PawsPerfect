@@ -255,6 +255,7 @@ h4 {
 
 #pricestext {
     border: #79492F 5px dotted;
+    border-radius: 5%;
     width: 40%;
     text-align: center;
     padding: 10% 0 10% 0;
@@ -529,6 +530,87 @@ footer {
         margin-top: 10%;
     }
 
-    
+    #intro-text h3 {
+        margin-top: 4%;
+    }
 
+    #pdwa, #coe {
+        width: 50%;
+        margin: 1% 0;
+    }
+
+    #gallery h3 {
+        font-size: 145%;
+        margin-bottom: 2.5%;
+    }
+
+    #gallery {
+        padding: 5% 0;
+    }
+
+    .photos img {
+        width: 46%;
+        border-radius: 10%;
+        text-align: left;
+        margin-bottom: 0;
+    }
+
+    #about-h3 i {
+        display: none;
+    }
+
+    #about-h3 {
+        font-size: 150%;
+    }
+
+    #about {
+        text-align: center;
+    }
+
+    #last_div {
+        padding-bottom: 110px;
+    }
+
+    .aboutdivs span {
+        text-align: center;
+    }
+
+    #about1, #about2, #about3 {
+        float: none;
+    }
+
+    #aboutimg1, #aboutimg2, #aboutimg3 {
+        float: none;
+        padding: 0;
+        margin-top: 5%;
+    }
+
+    #pricestext {
+        width: 90%;
+        margin-left: 3%;
+    }
+
+    #pricesimg {
+        width: 100%;
+        margin-top: 10%;
+    }
+
+    #prices img {
+        width: 93%;
+    }
+
+    body footer {
+        height: 100px;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+    }
+
+    .social-links {
+        position: absolute;
+        top: 25%;
+        right: 1%;
+        left: 1%;
+        background: none;
+    }
 }
