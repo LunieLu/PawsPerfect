@@ -29,6 +29,8 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
 ## Credits
  
  **Content**
-- 
+- Text content provided by Anna-Marie Eaton (Student's Family member)
+- Icons provided by Font Awesome <a href=""></a>
+
  **Media**
 - Images used on site are all original content
