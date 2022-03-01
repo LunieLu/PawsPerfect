@@ -228,7 +228,7 @@ h4 {
     border-radius: 5%;
     width: 40%;
     text-align: center;
-    padding: 10% 0 10% 0;
+    padding: 8% 0 8.5% 0;
     margin-left: 5%;
     font-size: 150%;
 }
@@ -346,8 +346,10 @@ footer {
 
 /* For larger screens size from 1600px wide and down */
 @media screen and (max-width: 1600px) {
-
-
+    .about_img {
+        height: 300px;
+        width: 300px;
+    }
 
 }
 
@@ -355,11 +357,22 @@ footer {
 @media screen and (max-width: 1200px) {
     #pdwa {
         width: 12%;
+        margin: 0;
+    }
+
+    #certs {
+        padding: 0;
+        margin-top: 1%;
     }
 
     .about_text {
-        font-size: 120%;
-        width: 60%;
+        font-size: 140%;
+    }
+
+    .about_img {
+        height: 250px;
+        width: 250px;
+        margin: 2%;
     }
 
     #pricestext {
@@ -384,11 +397,10 @@ footer {
 
     .about_text {
         font-size: 120%;
-        width: 60%;
     }
 
     #pricestext {
-        padding: 6% 0 6% 0;
+        padding: 5% 0 4% 0;
     }
     
     #phone {
@@ -448,13 +460,20 @@ footer {
     }
 
     #pricestext {
-        width: 40%;
-        font-size: 120%;
-        padding: 6% 0 5% 0;
+        width: 83%;
+        margin-left: 8%;
+        font-size: 155%;
+        padding: 10% 0 10% 0;
+    }
+
+    #pricesimg {
+        margin: 4% 0 2%;
+        width: 100%;
+        float: none;
     }
 
     #about-h3 {
-        padding-bottom: 1%;
+        padding-bottom: 6%;
     }
 
     .about_img {
@@ -464,8 +483,6 @@ footer {
 
     .about_text {
         font-size: 110%;
-        height: 280px;
-        margin: 0;
     }
 
     .contactform {
@@ -548,34 +565,9 @@ footer {
         font-size: 100%;
     }
 
-    #about1 {
-        margin-top: 0;
-    }
-
-    #aboutimg1 {
-        margin-top: 5%;
-    }
-
-    #about2 {
-        text-align: right;
-    }
-
-    #aboutimg2 {
-        margin-top: 10%;
-    }
-
-    #about3 {
-        margin-top: 15%;
-        margin-bottom: 25%;
-    }
-
-    #aboutimg3 {
-        margin-top: 35%;
-    }
-
     .about_img {
-        height: 150px;
-        width: 150px;
+        height: 175px;
+        width: 175px;
     }
 
     #pricestext {
@@ -656,16 +648,13 @@ footer {
         text-align: center;
     }
 
-    #last_div {
-        padding-bottom: 130px;
-    }
-
     .about_text p {
         padding: 5%;
     }
 
     .aboutdivs {
         margin-top: -8%;
+        margin-bottom: 10%;
     }
 
     .aboutdivs span {
