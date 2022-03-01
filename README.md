@@ -67,6 +67,12 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
             - Home Care (Feeding animals in their own home when owners are away)
     - The Minimalistic design helps make the page easy to read and factual for the users, so they are not scouring through blocks of text for information regarding the services.
 
+![Pawsitively Perfect Pet Care's Services and Prices](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/Prices.PNG "Prices Page")
+
+- Contact Form
+    - A basic form that users can fill out to contact Pawsitively Perfect Pet Care
+    - Each section on the form is required before the user can submit it
+    - This form can be used to book services, or just to contact the business with any queries
 
 
 
