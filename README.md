@@ -40,7 +40,7 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
     - Shows photos of pets that have been cared for
         - This is to help personalise the experience for the user, to help them feel connected to the business and its professional staff
 
-![The Gallery]()
+![The Gallery](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/gallery.PNG "Gallery")
 
 - The Footer
 
