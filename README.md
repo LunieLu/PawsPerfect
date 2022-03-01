@@ -48,11 +48,27 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
         - Facebook
         - Instagram
             - Both Social Links open a new tab when clicked on and take a user to the homepage for each site
+    - This helps the user to contact the business on more than one platform
 
 ![The Footer with Social Links](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/footer.PNG "Footer")
 
 - The About Page
-    - 
+    - A text heavy page
+    - Goes into detail about the business and the owner who created Pawsitively Perfect Pet Care
+    - Page includes 3 images of pets that have been looked after by the professionals who work for the business
+    - Adds a personal touch to the business and the website, providing a bit more insight into why it was created
+
+![About Pawsitively Perfect Pet Care](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/aboutpaws.PNG "About Page")
+
+- Prices Page
+    - Minimalistic design
+        - Page shows prices of the services offered by the business
+            - Dog Walking
+            - Home Care (Feeding animals in their own home when owners are away)
+    - The Minimalistic design helps make the page easy to read and factual for the users, so they are not scouring through blocks of text for information regarding the services.
+
+
+
 
 ---
 
