@@ -43,6 +43,16 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
 ![The Gallery](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/gallery.PNG "Gallery")
 
 - The Footer
+    - The footer is minimalistic so not to remove focus from rest of site
+    - It includes two Social Links:
+        - Facebook
+        - Instagram
+            - Both Social Links open a new tab when clicked on and take a user to the homepage for each site
+
+![The Footer with Social Links](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/footer.PNG "Footer")
+
+- The About Page
+    - 
 
 ---
 
