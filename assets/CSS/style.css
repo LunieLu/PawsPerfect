@@ -517,6 +517,15 @@ footer {
        display: none;
     }
 
+    h3 {
+        font-size: 180%;
+    }
+
+    .about_img {
+        height: 150px;
+        width: 150px;
+    }
+
 }
 
 /* For smaller mobile screen sizes from 350px wide and down */
@@ -546,6 +555,7 @@ footer {
 
     #gallery {
         padding: 5% 0;
+        margin-bottom: 100px;
     }
 
     .photos img {
@@ -561,6 +571,7 @@ footer {
 
     #about-h3 {
         font-size: 150%;
+        margin-top: 5%;
     }
 
     #about {
@@ -568,7 +579,15 @@ footer {
     }
 
     #last_div {
-        padding-bottom: 110px;
+        padding-bottom: 130px;
+    }
+
+    .about_text p {
+        padding: 5%;
+    }
+
+    .aboutdivs {
+        margin-top: -8%;
     }
 
     .aboutdivs span {
@@ -582,7 +601,11 @@ footer {
     #aboutimg1, #aboutimg2, #aboutimg3 {
         float: none;
         padding: 0;
-        margin-top: 5%;
+        margin-top: 4%;
+    }
+
+    #aboutimg1 {
+        margin-bottom: 10%;
     }
 
     #pricestext {
@@ -597,6 +620,14 @@ footer {
 
     #prices img {
         width: 93%;
+    }
+
+    form {
+        padding-bottom: 100px;
+    }
+
+    form textarea {
+        height: 300px;
     }
 
     body footer {
