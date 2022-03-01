@@ -117,7 +117,7 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
     - When I first ran my HTML code through the official <a href="https://validator.w3.org/#validate_by_input">W3C validator</a>, I encountered 9 red errors.
     - These were fixed within an hour and were due to incorrect section/div placement and lack of headings.
 
-![HTML Validator Errors](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/aboutpagebug.PNG "HTML Errors 1")
+![HTML Validator Errors](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/ErrorsValidatorHTML.PNG "HTML Errors 1")
 ![HTML Validator Errors continued](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/ErrorsValidatorHTML2.PNG "HTML Errors 2")
 
 - CSS
