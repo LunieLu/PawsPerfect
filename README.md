@@ -144,6 +144,7 @@ The live link for Pawsitively Perfect Pet Care can be found <a href="https://lun
  **Content**
 - Icons provided by <a href="https://fontawesome.com/">Font Awesome</a>
 - Poppins & Open Sans fonts provided by <a href="https://fonts.google.com/">Google Fonts</a>
+- HTML & CSS structure inspired by Code Institute's <a href="https://lunielu.github.io/LoveRunning/">Love Running Walkthrough Project</a>
 
  **Media**
 - Images used on site are all original content
