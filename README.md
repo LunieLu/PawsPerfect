@@ -8,7 +8,8 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
 
 ![Responsive view of Pawsitively Perfect Pet Care on all devices](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/Responsive.PNG "Pawsitively Perfect Pet Care")
 
-## Features
+## Features ##
+
 - Navigation
     - Featured at the top of the site, the navigation bar shows the logo for the business in the left corner: Pawsitively Perfect Pet Care; which is a link to return to the index.html page
     - The other navigation links to the far right of the nav bar: Home, About, Prices & Contact; these all divert a user to different pages within the site.
@@ -21,13 +22,18 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
         - #fff
         - #F8F1ED
 
-![The Navigation Bar for Pawsitive Perfect Pet Care]()
+![The Navigation Bar for Pawsitive Perfect Pet Care](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/navigation.PNG "Navigation")
 
 - The Hero Image
-
-
+    - The Hero Image used is a photo of Norwood Lakes, an original photo taken by a family member and local to the area that the business is based in.
 
 - The Intro Section
+    - The Intro section gives a basic introduction to the business and the services it offers.
+    - It explains the locations the business offers its services in, which are: Croydon, Bromley, Lewisham & Clapham.
+    - It briefly explains the qualifications of the professional dog walker.
+    - It includes logos of qualifications the professional has completed.
+
+![]
 
 - The Gallery Section
 
