@@ -98,12 +98,12 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
 
 ## Bugs ##
 
-** Solved Bugs **
+**Solved Bugs**
 
 - When the project was first deployed to GitHub pages, the images would not load correctly, I found this was due to a typo in the stylesheet syntax in the head html.
     - I tested the fix for the issue by removing additional / at the beginning of the file path and found that this was inaccurate.
 
-** Unsolved Bugs **
+**Unsolved Bugs**
 
 - Whilst reviewing the html syntax through the w3 validator; fixing some of the errors caused the structure and spacing to act strangely on the 'About page'.
     - Despite attempts to fix the positioning of the text vs the images, my knowledge and skills were unable to find a perfect solution to make them sit comfortably on the page.
