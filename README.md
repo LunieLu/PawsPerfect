@@ -74,6 +74,14 @@ This site is targeted towards Dog & Cat owners who may be looking to book time a
     - Each section on the form is required before the user can submit it
     - This form can be used to book services, or just to contact the business with any queries
 
+![Contact Pawsitively Perfect Pet Care](https://raw.githubusercontent.com/LunieLu/PawsPerfect/main/docs/Contactform.PNG "Contact Form")
+
+- Thank You Message
+    - A small thank you message that pops up for the user when they submit a message through the contact form
+    - This informs the user that their message has been sent and that someone from Pawsitively Perfect Pet Care will be in touch with them
+
+![]()
+
 
 
 ---
